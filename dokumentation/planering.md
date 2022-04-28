@@ -35,7 +35,7 @@ Införande av text och markera up den. Föra in bilder. Ändra på färg och typ
 
 ## Vecka 18
 
-Fortsatt arbete med desigenen av websidan.
+Designa var texten ska vara, föra in bilder. Ändra på färg och typsnit ska göras
 
 ## Vecka 19 NP
 
