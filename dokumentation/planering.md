@@ -48,6 +48,8 @@ Fortsäta med att föra in texten och börja mmarkera up den. Ska ändra på fä
 Liger bra till dock hoppades jag att förat in all text föra lektionen.
 
 ### Behöver hjälp med något
+ inget nu
+
 
 
 ## Vecka 19 NP
@@ -59,6 +61,7 @@ Gör NP
 ### Vad gjorde jag sist 
 
 ### Vad ska jag göra idag
+ Ska ända padding på texten. (P)
 
 ### Hur ligger jag till 
 
