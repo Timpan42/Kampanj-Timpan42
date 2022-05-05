@@ -35,22 +35,50 @@ Införande av text och markera up den. Föra in bilder. Ändra på färg och typ
 
 ## Vecka 18
 
-Designa var texten ska vara, föra in bilder. Ändra på färg och typsnit ska göras
+### Vad gjorde jag sist
+
+Jag hade skrivit planeringen, vallt det tema som skulle användas och för in delar av texten och struktuera den i HTML. 
+
+### Vad ska jag göra idag
+
+Fortsäta med att föra in texten och börja mmarkera up den. Ska ändra på färgerna på hemsiderna och att föra in bilder. 
+
+### Hur ligger jag till 
+
+Liger bra till dock hoppades jag att förat in all text föra lektionen.
+
+### Behöver hjälp med något
+
 
 ## Vecka 19 NP
 
+Gör NP 
 
 ## Vecka 20
 
-Försöka bli klar med dem stora delarna av sidan efter lektionens slut. 
+### Vad gjorde jag sist 
+
+### Vad ska jag göra idag
+
+### Hur ligger jag till 
+
+### Behöver hjälp med något
 
 ## Vecka 21 Kristi himmels
 
+INTE HÄR!!!!!!!!
 
 ## Vecka 22 
 
-Fixa små problem. Skriva PM och lämna in projektet.  
+### Vad gjorde jag sist 
 
+### Vad ska jag göra idag
+
+### Hur ligger jag till 
+
+### Behöver hjälp med något
+
+Ska skriva PM 
 
 
 
