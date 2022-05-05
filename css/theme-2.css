@@ -79,6 +79,7 @@ font-family: 'Aleo', serif;
 
 .material-icons {
     color: var(--color-light);
+    font-size: 60px;
 }
 
 .nav-link:hover {
