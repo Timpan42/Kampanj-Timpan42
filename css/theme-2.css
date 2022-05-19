@@ -3,8 +3,10 @@
 :root {
     --color-dark: #094342; /*bakrund*/
     --color-light: #f5f5f5; /*text*/
+    --color-hover: #f9f9f9;  
     --color-primary: #f0052c; /*nav-bar och hover på knapp */
     --color-secondary: #6883ba; /* knappar*/
+
     --font-sans:'PT Sans', sans-serif;
 }
 body {
@@ -74,7 +76,7 @@ font-family: 'Aleo', serif;
 .brand {
     color: var(--color-light);
     text-decoration: none;
-    width: 60px;
+    width: 45px;
 }
 
 .material-icons {
@@ -89,7 +91,7 @@ font-family: 'Aleo', serif;
 
 /* text */
 .lead {
-    font-size: 1.333rem;
+    font-size: 1.5rem;
 }
 
 q {
