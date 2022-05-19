@@ -10,6 +10,7 @@ Gör NP
 
 ## Vecka 20
 ### Vad har jag gjort i dag
+Jag har ändra margin på stora delar av texten så det blir mer utrume från H1, H2 och medmera. Ändrat på bildern så det är mer pasande. Fixa hover färgen så den är en annan färg.  
 
 ## Vecka 21
 Inte här

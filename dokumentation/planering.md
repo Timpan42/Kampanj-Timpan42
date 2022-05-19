@@ -58,30 +58,29 @@ Gör NP
 
 ## Vecka 20
 
-### Vad gjorde jag sist 
-
 ### Vad ska jag göra idag
  Ska ända padding på texten. (P)
 
 ### Hur ligger jag till 
+ Jag är för det mesta klart. Jag skulle kuna ändra på testen för carden så det passa texten. 
+ Ska validera css och html koden.
 
 ### Behöver hjälp med något
+inte nu
 
 ## Vecka 21 Kristi himmels
 
 INTE HÄR!!!!!!!!
 
-## Vecka 22 
-
-### Vad gjorde jag sist 
+## Vecka 22  
 
 ### Vad ska jag göra idag
+Fixa testen i carden, validera koden och skriva PM
 
 ### Hur ligger jag till 
 
 ### Behöver hjälp med något
 
-Ska skriva PM 
 
 
 
