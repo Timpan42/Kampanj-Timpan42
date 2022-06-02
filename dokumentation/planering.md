@@ -75,7 +75,7 @@ INTE HÄR!!!!!!!!
 ## Vecka 22  
 
 ### Vad ska jag göra idag
-Fixa testen i carden, validera koden och skriva PM
+Fixa texten i carden, validera koden och skriva PM
 
 ### Hur ligger jag till 
 
