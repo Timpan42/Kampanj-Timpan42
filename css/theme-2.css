@@ -3,9 +3,11 @@
 :root {
     --color-dark: #094342; /*bakrund*/
     --color-light: #f5f5f5; /*text*/
-    --color-hover: #5e3a8d;  /*hover på knapp*/
-    --color-primary: #f0052c; /*nav-bar*/
+    --color-hover: #3b077a;  /*hover på knapp*/
+    --color-primary: #971111; /*nav-bar*/
     --color-secondary: #6883ba; /* knappar*/
+    --color-text: #020807;
+    --color-text_second: #dbdbdb;
 
     --font-sans:'PT Sans', sans-serif;
 }
@@ -139,7 +141,7 @@ q {
 /* cta knappen */
 .btn {
     border-radius: 0.333rem;
-    color: var(--color-dark)
+    color: var(--color-text)
 }
 .btn:hover {
     background-color: var(--color-hover);

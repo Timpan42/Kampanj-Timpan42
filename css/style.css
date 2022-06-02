@@ -3,7 +3,10 @@
     --color-dark: hsl(0, 0%, 20%);
     --color-shadow: hsla(0, 0%, 13%, 0.2);
     --color-primary: hsl(347, 83%, 56%);
-    --color-secondary: hsl(275, 100%, 25%);
+    --color-secondary: hsl(275, 96%, 11%);
+    --color-text: #b3b3b3;
+    --color-text_second: #020807;
+
 
     --font-sans: "Merriweather Sans", sans-serif;
 }
@@ -66,7 +69,8 @@ a:hover {
     padding-left: 1rem;
 }
 .nav-link {
-    color: var(--color-light);
+    color: var(--color-text_second);
+    font-weight: 600;
 }
 .nav-link:hover {
     text-decoration: none;
